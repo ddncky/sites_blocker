@@ -51,8 +51,7 @@
 
 * python
 * pip
-* 
-#### IMPORTANT
+#### IMPORTANT:
 - Make sure to create a backup of the /etc/hosts file.
 - You will need to change the permissions of the /etc/hosts file to allow modifying!
 
