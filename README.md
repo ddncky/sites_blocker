@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://https://github.com/ddncky/sites_blocker">
-    <img src="https://https://github.com/ddncky/sites_blocker/assets/131533545/ba3dd7f6-3a70-479c-99c7-2a292b40f8a3" alt="Logo">
+    <img src="https://github.com/ddncky/sites_blocker/assets/131533545/5cb906b2-8da7-4fe6-9bf9-5a70d560150c" alt="Logo">
   </a>
 
 <h3 align="center">Websites blocker</h3>
